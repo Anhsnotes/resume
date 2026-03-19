@@ -1,0 +1,10 @@
+# Claude Code local preferences (personal, not shared)
+CLAUDE.local.md
+
+# Generated resumes (regenerate from data/ as needed)
+output/
+
+# Environment files
+.env
+.env.local
+.env.*.local
