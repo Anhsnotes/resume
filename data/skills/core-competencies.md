@@ -9,6 +9,9 @@
 - Data quality — expert
 - Metadata management — proficient
 - Ontology, Taxonomy — proficient
+- Knowledge management systems — proficient
+- AI/LLM integration for analytics — proficient
+- RAG (Retrieval-Augmented Generation) — proficient
 
 ## Product & Process
 
