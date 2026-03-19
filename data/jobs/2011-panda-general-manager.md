@@ -8,6 +8,6 @@
 
 ## Accomplishments
 
-- Analyzed store operation data.
-- Promoted 5 employees.
 - Increased sales 20% after 6 months.
+- Promoted 5 employees.
+- Analyzed store operation data.

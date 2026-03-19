@@ -9,5 +9,5 @@
 ## Accomplishments
 
 - Oversaw telemetry data management for over 100 projects.
-- Implemented standard operating procedures for house scanning.
 - Developed a technical framework to enhance telemetry quality.
+- Implemented standard operating procedures for house scanning.

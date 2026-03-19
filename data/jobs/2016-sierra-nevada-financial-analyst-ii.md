@@ -9,5 +9,5 @@
 
 ## Accomplishments
 
-- Order forecast automated report.
 - Automated 20+ order reports and cut processing time 94% from 8 hours to 30 minutes (SQL, SAP Business Object).
+- Order forecast automated report.

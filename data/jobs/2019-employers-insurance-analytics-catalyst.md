@@ -10,4 +10,4 @@
 
 - Developed agency facing dashboard from ETL workflow to external facing UI, serving 1,000+ external users (SQL, Alteryx, Tableau Embedded), reducing time to access data by 99% from 8 hours to on-demand.
 - Developed sales alerts automated email system distributing to 40+ territory manager for 20+ critical alerts (Alteryx, Python), increasing customer retention by 10%.
-- Developed feedback collection widget for Tableau dashboard, saving 2 months development from software engineering team (Tableau, R).
+- Developed feedback collection widget for Tableau dashboard, saving 2 months of development from software engineering team (Tableau, R).
