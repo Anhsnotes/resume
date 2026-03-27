@@ -4,7 +4,7 @@
 - Location: Austin, TX
 - Type: Full Time – on site
 - Start: 03/2021
-- End: 10/2023
+- End: 09/2023
 - Note: Promoted from Data Analyst
 
 ## Accomplishments

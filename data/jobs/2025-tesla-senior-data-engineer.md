@@ -16,5 +16,6 @@
 - Created a unified Metrics Tables framework that consolidated scattered metrics into a single governed layer with standardized definitions and documented lineage, eliminating duplicated logic and enabling plug-and-play portability across analytics use cases.
 - Guided, trained, and mentored 5 data engineers on data governance and the modern data stack, driving a 50% improvement in productivity, quality, and efficiency by year-end.
 - Developed a dashboarding system using Streamlit that supports version control, is scalable, technology-agnostic, and decoupled from costly proprietary software.
+- Built a Data Scientist AI Agent powered by Anthropic Claude to accelerate exploratory data work across the internal team, enabling ad-hoc querying and on-demand HTML dashboard generation with a collaborative framework for incremental improvement and full version control—reducing ad-hoc analysis turnaround from 2–4 hours to minutes (90%+) and dashboard prototyping from days to under an hour.
 - Enabled CI/CD pipeline for data engineers with rich metadata to support AI analyst initiative.
 - Enabled dynamic historical reporting with logic update back fill capability.
